@@ -1,3 +1,3 @@
 # WebClone_Instagram
 
-basic format of instagram profile page.
+==>basic format of instagram profile page.
