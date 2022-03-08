@@ -26,7 +26,7 @@
         id.style.display="none";
     })
     
-    로 변경, 팝업레이어의 이미지를 클릭시 팝업레이어의 display를 none으로 변경.
+   로 변경, 팝업레이어의 이미지를 클릭시 팝업레이어의 display를 none으로 변경.
     
 / onmouseover에 의해서만 보여야할 'id="cimage"'가 웹페이지 로드순간부터 보여지는 문제 발생.
 =>insta.js의 onmouseover=function내부의 display의 값을 "block"에서 "inline"으로 변경함으로 문제 해결.
