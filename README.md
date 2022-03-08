@@ -2,7 +2,8 @@
 
 ==>basic format of instagram profile page.
 
-1
+1.
+
 / 팝업레이어의 이미지의 position : absolute임에도 '부모(조상)'블록에의해 이미지의 시작좌표가 부모의 시작좌표에서 시작하는 문제 발생.
 =>팝업레이어블록을 pictureline 내부가 아닌, main블록 밑으로 넣으므로 문제해결.
   /팝업레이어블록을 이동함으로 팝업레이어가 팝업이 되었을시 기존의 
