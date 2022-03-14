@@ -1,6 +1,6 @@
 # WebClone_Instagram
 
-==>basic format of instagram profile page.
+==>basic format of instagram profile page. 페이지의 외형만을 clone.
 
 1.
 
